@@ -60,13 +60,3 @@ Lastly, I visualize the testing phase by printing out the card's image and the m
 
 Based on my experience, the confusion was worse at 5 epoch, but improved greatly at 7 epoch. Training at higher epochs than 7 yielded limited improvements. In the end, the model settled at 97% accuracy, correctly predicting 256/265 test images.
 
-
-
-
-
-
-Run locally:
-- Create .env file with completed environment variables
-- npm install
-- npm run dev
-
