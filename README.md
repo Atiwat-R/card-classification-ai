@@ -3,6 +3,7 @@
 Artificial Intelligence/Machine Learning project. An AI model that can classify playing cards from a standard 52-card (+Joker) deck, including those with unconventional stylistic designs. Achieved roughly 97% accuracy.
 
 Dataset: <u> https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification </u>
+
 Based on & Extended from: <u> https://www.kaggle.com/code/robikscube/train-your-first-pytorch-model-card-classifier </u> 
 
 ### Tools Used
